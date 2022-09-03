@@ -1,0 +1,38 @@
+form:-
+
+<div class="sign-up">
+            <h1>sign-up</h1>
+            <form action="submit.html" target="_blank">
+                <section>
+                    <label for="f-name">First name:</label>
+                    <input type="text" required autocomplete="name" id="f-name">
+                    <label for="l-name">Last name:</label>
+                    <input type="text" required autocomplete="name" id="l-name">
+                    <label for="email-id">E-mail:</label>name
+                    <input type="email" required autocomplete="" id="email-id">
+                </section>
+                <section class="occupation">
+                    <h2>I am a <span>(occupation)</span></h2>
+                    <input type="radio" required autocomplete="name" name="work" id="self"><label
+                        for="self">Freelancer</label><br>
+                    <input type="radio" required autocomplete="name" name="work" id="company"><label
+                        for="company">Employee</label><br>
+                    <input type="radio" required autocomplete="name" name="work" id="money"><label
+                        for="money">Unemployed</label>
+                </section>
+                <div class="submit">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>
+        </div>
+
+
+intro:-
+
+
+<div class="intro">
+     <div class="description">
+        <h1>Vijay gurjar</h1>
+     <p>I am vijay gurjar a fullstack webdeveloper. I am interested in helping people to take their buisness or personal brand go online. I have experience in making portofolio websites, e-commerce websites, you can check them in samples. You can buy premade websites from buy section. If you want to make a custom website than contact me.</p>
+    </div>
+    </div>
